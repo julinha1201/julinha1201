@@ -1,5 +1,8 @@
-## Hi there 👋
-
+meu nome é: Julia Alves
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![](link)
 <!--
 **julinha1201/julinha1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
